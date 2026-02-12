@@ -16,7 +16,7 @@ Descripción del proyecto:
 
 
 
-Contexto:  Se tomó la informaci{ó del 1 de enero de 2025 al 31 de agosto de 2025 con el objetivo responder las siguientes preguntas:
+Contexto:  Se tomó la información del 1 de enero de 2025 al 31 de agosto de 2025 con el objetivo responder las siguientes preguntas:
 
 \-	¿cuál es la tasa de conversión entre cada etapa clave del embudo?.
 
@@ -54,13 +54,11 @@ Proceso general realizado:
 
 
 
-Resultados: El análisis de embudo es un método utilizado en el Análisis de Datos y marketing para visualizar y comprender los pasos que dan los clientes potenciales antes de completar una acción deseada, como realizar una compra o suscribirse a un boletín informativo. 
+Resultados: El análisis de embudo es un método utilizado en el Análisis de Datos y marketing para visualizar y comprender los pasos que dan los clientes potenciales antes de completar una acción deseada, como realizar una compra o suscribirse a un boletín informativo.
 
 Este enfoque analítico ayuda a las empresas a identificar dónde están perdiendo clientes potenciales en el proceso de conversión, lo que les permite optimizar sus estrategias de marketing y mejorar el rendimiento general.
 
-En este caso específico, ayudé a la empresa a entender que el comportamiento de los usuarios estaba siendo malo para el negocio, pero por otro lado, era muy similar en todos los países, razón por la cual se pudo determinar que el problema no estaba en los usuarios, sino que estaba en otra(s) parte(s) del proceso, pudiendo ser en el módulo específico de la plataforma en internet, o en la oferta de productos, en el nivel de atención de los servicios, o incluso en la parte de marketing de las promociones. 
+En este caso específico, ayudé a la empresa a entender que el comportamiento de los usuarios estaba siendo malo para el negocio, pero por otro lado, era muy similar en todos los países, razón por la cual se pudo determinar que el problema no estaba en los usuarios, sino que estaba en otra(s) parte(s) del proceso, pudiendo ser en el módulo específico de la plataforma en internet, o en la oferta de productos, en el nivel de atención de los servicios, o incluso en la parte de marketing de las promociones.
 
 A partir de estos resultados se desprendió otro proyecto enfocado a analizar y resolver el problema de forma más clara y específica sobre los puntos idenitifocados, lo cual permitió identificar una modificación esencial en la palatforma que les llevó a mejorar en un 25% los resultados de retención de usuarios y evitar estas caídas tan abruptas
-
-
 
