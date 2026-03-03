@@ -12,6 +12,8 @@
 
 ## 1\. Dashboard de Tendencias Retail
 
+![Screenshot](./images/proy-1.png)
+
 **Descripción del proyecto:** Visualización estratégica de indicadores clave mediante Dashboards dinámicos, transformando volúmenes de datos en hojas de ruta para la alta dirección.
 
 - **Empresa:** Proyecto TripleTen Bootcamp.
@@ -40,6 +42,9 @@ KPI 1: Ventas por metro cuadrado (eficiencia): Ventas / Tamaño.
 - **Herramientas:** Python (Pandas), SQL y Excel avanzado.
 
 ## 2. Análisis de embudo y retención de clientes para Mercado Libre
+
+![Screenshot](./images/proy-2.png)
+![Screenshot](./images/proy-3.png)
 
 **Descripción del proyecto:** Como analista de producto en MercadoLibre, dentro del equipo de Crecimiento y Retención, el **Director de Producto** planteó el siguiente requerimiento: “Necesitamos entender en qué etapa del proceso perdemos usuarios y cómo podemos mejorar su retención a lo largo del tiempo.”
 
@@ -89,6 +94,8 @@ A partir de estos resultados se desprendió otro proyecto enfocado a analizar y 
 
 ## 3\. Sistema de Información Gerencial (Data Marts)
 
+![Screenshot](./images/proy-4.png)
+
 **Sistema de Información Gerencial (Datamarts) en Royal & Sun Alliance Seguros (México), ahora Seguros SURA, S.A.:**
 
 Supervisé el análisis, diseño y desarrollo de un sistema de información gerencial basado en **Datamarts** para la integración y explotación de información ejecutiva y estadística de todos los ramos de seguros que gestionaba la empresa, en una base de datos única. Este Sistema de Información Gerencial (SIG) basado en Data Marts es la evolución natural de un almacén de datos centralizado hacia algo mucho más ágil y específico para la toma de decisiones.
@@ -113,19 +120,9 @@ Para ello, se establecieron varios procesos de ETL (Extracción, Transformación
 
 - **Herramientas:** SQL, Procesos ETL, Cognos y sistemas _legacy_.
 
-- 1.  **Análisis Predictivo de Ventas**
-
-**Empresa:** Proyecto TripleTen Bootcamp.
-
-**Contexto:** Análisis de grandes volúmenes de datos para identificar el comportamiento del cliente a largo plazo.
-
-**Descripción:** Ejecución de análisis exploratorio (EDA) y aplicación de modelos predictivos sobre el historial de ventas.
-
-**Logros:** Implementación de modelos que permiten optimizar decisiones estratégicas basadas en el comportamiento histórico.
-
-**Herramientas:** Python (Bibliotecas de Ciencia de Datos) y SQL.
-
 ## 4\. Indicadores de Sustentabilidad (IMAVA)
+
+<img src="./images/proy-5.jpg" width="200" height="200">
 
 - **Empresa:** Secretaría del Medio Ambiente de la Cudad de México (S.M.A.)
 
